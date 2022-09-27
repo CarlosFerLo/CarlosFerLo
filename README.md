@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Carlos Fernandez, from Barcelona. I'm currently studying mathematics at Universidad de Barcelona, and I'm really enjoying it. I'm studying C programming at uni and I'm haveing fun so I decided to start studying it on my own.
+I am of entrepeneurial nature, my main goal is to start my own company to make something valuable. Currently I am designing an algorithm to support independent value investors to analyse companies faster and better, if anyone interested wou can contact me.
+I'm also interested in quantum computing, blockchain and machine learning, but I will dig deeper in those areas when I have the proper knowledge to do so.
+
+A pleasure,
+
+Carlos
