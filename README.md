@@ -14,9 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Carlos Fernandez, from Barcelona. I'm currently studying mathematics at Universidad de Barcelona, and I'm really enjoying it. 
-I am of entrepeneurial nature, my main goal is to start my own company to make something valuable. 
-Currently I am working on my final year thesis about AI models that generate mathematical proofs.
+I'm Carlos Fernandez, from Barcelona. I'm currently studying mathematics at Universidad de Barcelona.
+
+I have some public repos with the coding I did on some of my university courses:
+ - [Elementos de Programación](https://github.com/CarlosFerLo/Elements-de-Programacio)
+ - [Programación Científica](https://github.com/CarlosFerLo/PrograCientifica)
+ - [Métodos Numéricos I](https://github.com/CarlosFerLo/metodos-numericos)
+ - [Métodos Numéricos II](https://github.com/CarlosFerLo/metodos-numericos-2)
+   TODO: Finish tis Readme
 
 A pleasure,
 
