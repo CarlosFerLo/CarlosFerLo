@@ -16,12 +16,20 @@ Here are some ideas to get you started:
 -->
 I'm Carlos Fernandez, from Barcelona. I'm currently studying mathematics at Universidad de Barcelona.
 
+I am currently researching on Autonomous Theorem Proving (which includes my final year thesis), here are some repos on some things I have done.
+ - [Combinators Dataset](https://github.com/CarlosFerLo/combinators-dataset)
+ - [Combinators LLM](https://github.com/CarlosFerLo/combinators-llm)
+
 I have some public repos with the coding I did on some of my university courses:
  - [Elementos de Programación](https://github.com/CarlosFerLo/Elements-de-Programacio)
  - [Programación Científica](https://github.com/CarlosFerLo/PrograCientifica)
  - [Métodos Numéricos I](https://github.com/CarlosFerLo/metodos-numericos)
  - [Métodos Numéricos II](https://github.com/CarlosFerLo/metodos-numericos-2)
-   TODO: Finish tis Readme
+ - [Anillos de Polinomios en Diversas Variables](https://github.com/CarlosFerLo/anillos-de-polinomios)
+
+I also have a half built package that reflects a my proposed framework for developping LLM-based agents.
+It is not finished as I am currently foccussing on other work, but I will try and finish it one day.
+ - [Synthetic Transformers](https://github.com/CarlosFerLo/synthetic-transformers)
 
 A pleasure,
 
