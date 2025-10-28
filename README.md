@@ -27,6 +27,8 @@ I have some public repos with the coding I did on some of my university courses:
  - [Métodos Numéricos II](https://github.com/CarlosFerLo/metodos-numericos-2)
  - [Anillos de Polinomios en Diversas Variables](https://github.com/CarlosFerLo/anillos-de-polinomios)
 
+The [transformer-lecture](https://github.com/CarlosFerLo/transformer-lecture) repo contains interactive notes on a technical lecture I gave on coding and training transformer models.
+
 I also have a half built package that reflects a my proposed framework for developping LLM-based agents.
 It is not finished as I am currently foccussing on other work, but I will try and finish it one day.
  - [Synthetic Transformers](https://github.com/CarlosFerLo/synthetic-transformers)
