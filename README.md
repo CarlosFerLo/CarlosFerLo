@@ -19,7 +19,8 @@ I'm Carlos Fernandez, from Barcelona. I'm currently studying mathematics at Univ
 I am currently researching on Autonomous Theorem Proving (which includes my final year thesis), here are some repos on some things I have done.
  - [Combinators Dataset](https://github.com/CarlosFerLo/combinators-dataset)
  - [Combinators LLM](https://github.com/CarlosFerLo/combinators-llm)
-
+ - [Implica](https://github.com/CarlosFerLo/implicational-logic-graph)
+   
 I have some public repos with the coding I did on some of my university courses:
  - [Elementos de Programación](https://github.com/CarlosFerLo/Elements-de-Programacio)
  - [Programación Científica](https://github.com/CarlosFerLo/PrograCientifica)
