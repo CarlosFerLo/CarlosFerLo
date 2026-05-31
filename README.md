@@ -20,6 +20,8 @@ I am currently researching on Autonomous Theorem Proving (which includes my fina
  - [Combinators Dataset](https://github.com/CarlosFerLo/combinators-dataset)
  - [Combinators LLM](https://github.com/CarlosFerLo/combinators-llm)
  - [Implica](https://github.com/CarlosFerLo/implica)
+ - [Thesis](https://github.com/CarlosFerlo/tfg)
+
    
 I have some public repos with the coding I did on some of my university courses:
  - [Elementos de Programación](https://github.com/CarlosFerLo/Elements-de-Programacio)
